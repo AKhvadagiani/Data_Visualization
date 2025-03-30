@@ -1,0 +1,60 @@
+﻿Borough,CD Number,CD Name,Population,Borough_ID
+Bronx,1,"Melrose, Mott Haven, Port Morris",91497,BX01
+Bronx,2,"Hunts Point, Longwood",52246,BX02
+Bronx,3,"Morrisania, Crotona Park East",79762,BX03
+Bronx,4,"Highbridge, Concourse Village",146441,BX04
+Bronx,5,"University Hts., Fordham, Mt. Hope",128200,BX05
+Bronx,6,"East Tremont, Belmont",83268,BX06
+Bronx,7,"Bedford Park, Norwood, Fordham",139286,BX07
+Bronx,8,"Riverdale, Kingsbridge, Marble Hill",101731,BX08
+Bronx,9,"Soundview, Parkchester",172298,BX09
+Bronx,10,"Throgs Nk., Co-op City, Pelham Bay",120392,BX10
+Bronx,11,"Pelham Pkwy, Morris Park, Laconia",113232,BX11
+Bronx,12,"Wakefield, Williamsbridge",152344,BX12
+Brooklyn,1,"Williamsburg, Greenpoint",173083,BKN01
+Brooklyn,2,"Brooklyn Heights, Fort Greene",99617,BKN02
+Brooklyn,3,Bedford Stuyvesant,152985,BKN03
+Brooklyn,4,Bushwick,112634,BKN04
+Brooklyn,5,"East New York, Starrett City",182896,BKN05
+Brooklyn,6,"Park Slope, Carroll Gardens",104709,BKS06
+Brooklyn,7,"Sunset Park, Windsor Terrace",126230,BKS07
+Brooklyn,8,Crown Heights North,96317,BKN08
+Brooklyn,9,"Crown Heights South, Wingate",98429,BKN09
+Brooklyn,10,"Bay Ridge, Dyker Heights",124491,BKS10
+Brooklyn,11,"Bensonhurst, Bath Beach ",181981,BKS11
+Brooklyn,12,"Borough Park, Ocean Parkway",191382,BKS12
+Brooklyn,13,"Coney Island, Brighton Beach",104278,BKS13
+Brooklyn,14,"Flatbush, Midwood",160664,BKS14
+Brooklyn,15,"Sheepshead Bay, Gerritsen Beach",159650,BKS15
+Brooklyn,16,"Brownsville, Ocean Hill",86468,BKN16
+Brooklyn,17,"East Flatbush, Rugby, Farragut",155252,BKN17
+Brooklyn,18,"Canarsie, Flatlands",193543,BKS18
+Manhattan,1,"Battery Park City, Tribeca",60978,MN01
+Manhattan,2,"Greenwich Village, Soho",90016,MN02
+Manhattan,3,"Lower East Side, Chinatown",163277,MN03
+Manhattan,4,"Chelsea, Clinton",103245,MN04
+Manhattan,5,Midtown Business District,51673,MN05
+Manhattan,6,"Stuyvesant Town, Turtle Bay",142745,MN06
+Manhattan,7,"West Side, Upper West Side",209084,MN07
+Manhattan,8,Upper East Side,219920,MN08
+Manhattan,9,"Manhattanville, Hamilton Heights",110193,MN09
+Manhattan,10,Central Harlem,115723,MN10
+Manhattan,11,East Harlem,120511,MN11
+Manhattan,12,"Washington Heights, Inwood",190020,MN12
+Queens,1,"Astoria, Long Island City",191105,QW01
+Queens,2,"Sunnyside, Woodside",113200,QW02
+Queens,3,"Jackson Heights, North Corona",171576,QW03
+Queens,4,"Elmhurst, South Corona",172598,QW04
+Queens,5,"Ridgewood, Glendale, Maspeth",169190,QW05
+Queens,6,"Forest Hills, Rego Park",113257,QW06
+Queens,7,"Flushing, Bay Terrace",247354,QE07
+Queens,8,"Fresh Meadows, Briarwood",151107,QE08
+Queens,9,"Woodhaven, Richmond Hill",143317,QW09
+Queens,10,"Ozone Park, Howard Beach",122396,QE10
+Queens,11,"Bayside, Douglaston, Little Neck",116431,QE11
+Queens,12,"Jamaica, St. Albans, Hollis",225919,QE12
+Queens,13,"Queens Village, Rosedale",188593,QE13
+Queens,14,"The Rockaways, Broad Channel",114978,QE14
+Staten Island,1,"Stapleton, Port Richmond",175756,SI01
+Staten Island,2,"New Springville, South Beach",132003,SI02
+Staten Island,3,"Tottenville, Woodrow, Great Kills",160209,SI03
